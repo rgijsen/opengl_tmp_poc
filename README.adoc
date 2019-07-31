@@ -1,0 +1,19 @@
+ifdef::env-github[]
+:tip-caption: :bulb:
+endif::[]
+
+== opengl template test project
+
+=== Description
+Test case in how far opengl usage can be templatized.
+Goals is to have the opengl part wrapped in header files
+
+Navigation keys:
+
+* 2D and 3D: arrow keys, left mouse, page up, page down
+* 2D: right mouse
+* 3D: insert, del, home, end
+* Reset: r key
+
+=== 2do (maybe)
+* remove the use of both eigen and glm for vector and matrix types

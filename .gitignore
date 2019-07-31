@@ -1,0 +1,6 @@
+build/*
+*.ipch
+*.opendb
+/.vs/Kairos/v15/.suo
+/.vs/Kairos/v15/Browse.VC.db
+/.vs/slnx.sqlite
