@@ -4,6 +4,12 @@ endif::[]
 
 == opengl template test project
 
+=== Spec
+* Header files only opengl wrapper
+* C++17 
+* CMake 3.10
+* GCC 8
+
 === Description
 Test case in how far opengl usage can be templatized.
 Goals is to have the opengl part wrapped in header files
